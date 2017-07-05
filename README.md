@@ -11,7 +11,7 @@ Wenhao Zhang1, Ge Li1, Zhenqiang Ying1, Xiaoqiang Guo2
 
 WebPage
  ======================================================================
-[project website](https://github.com/zhangwenhao123/ISM2017/blob/gh-pages/ism2017.html)
+[project website](https://zhangwenhao123.github.io/ISM2017/ism2017.html)
 
 Code
  ======================================================================
