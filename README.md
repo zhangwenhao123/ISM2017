@@ -1,13 +1,11 @@
 
-## The 19th IEEE International Symposium on Multimedia (ISM 2017)
+## The Pacific-Rim Conference on Multimedia (PCM) 2018
 
-Underwater Image Enhancement By Dehazing and Color Correction
+Underwater Image Enhancement By the Combination of Dehazing and Color Correction
 ======================================================================
-Wenhao Zhang1, Ge Li1, Zhenqiang Ying1, Xiaoqiang Guo2
+Wenhao Zhang, Ge Li, Zhenqiang Ying
 
-1School of Electronic and Computer Engineering, Shenzhen Graduate School, Peking University, Shenzhen, China 
-
-2Academy of Broadcasting Science, SAPPRFT Beijing, China
+School of Electronic and Computer Engineering, Shenzhen Graduate School, Peking University, Shenzhen, China 
 
 WebPage
  ======================================================================
